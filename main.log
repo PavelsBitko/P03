@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2018.3.22)  6 JUN 2018 02:07
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2018.3.22)  6 JUN 2018 02:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,7 +713,7 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 (/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2010/10/15 v2.10 (rcs-revision 1.12)
 )))
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -728,7 +728,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.9} into y
@@ -793,21 +793,11 @@ Missing character: There is no ķ in font cmr10!
 Missing character: There is no ā in font cmr10!
 Missing character: There is no ī in font cmr10!
 Missing character: There is no ā in font cmr10!
-
-LaTeX Warning: Citation `gramata1' on page 1 undefined on input line 39.
-
-
-LaTeX Warning: Citation `gramata2' on page 1 undefined on input line 39.
-
 Missing character: There is no š in font cmr10!
 Missing character: There is no ī in font cmr10!
 Missing character: There is no ē in font cmr10!
 Missing character: There is no ķ in font cmr10!
 Missing character: There is no ā in font cmr10!
-
-LaTeX Warning: Reference `Teoretiska tabula' on page 1 undefined on input line 
-47.
-
 Missing character: There is no Ķ in font cmr10!
 Missing character: There is no ē in font cmr10!
 Missing character: There is no ē in font cmr10!
@@ -822,9 +812,6 @@ Missing character: There is no ā in font cmbx12!
 Missing character: There is no ā in font cmr10!
 Missing character: There is no š in font cmr10!
 Missing character: There is no ē in font cmr10!
-
-LaTeX Warning: Reference `GEDA Shema' on page 3 undefined on input line 74.
-
 File: images/01.png Graphic file (type QTm)
 <use  "images/01.png" >
 Missing character: There is no ā in font cmr10!
@@ -832,38 +819,25 @@ Missing character: There is no ē in font cmr10!
  [3
 
 ]
-
-LaTeX Warning: Reference `ngspice grafiks 1' on page 4 undefined on input line 
-94.
-
-
-LaTeX Warning: Reference `ngspice grafiks 2' on page 4 undefined on input line 
-94.
-
 File: images/011.png Graphic file (type QTm)
-<use  "images/011.png" >
+ <use  "images/011.png" >
 File: images/012.png Graphic file (type QTm)
  <use  "images/012.png" >
 Missing character: There is no ā in font cmbx12!
 Missing character: There is no ā in font cmbx12!
 Missing character: There is no ē in font cmbx12!
 File: images/02.png Graphic file (type QTm)
- <use  "images/02.png" >
+
+<use  "images/02.png" >
 Missing character: There is no ā in font cmr10!
 Missing character: There is no ē in font cmr10!
-
-[4]
+ [4]
 Missing character: There is no ē in font cmr10!
 Missing character: There is no ā in font cmr10!
 Missing character: There is no ī in font cmr10!
 Missing character: There is no ē in font cmr10!
-
-
-LaTeX Warning: Reference `Principala shema' on page 5 undefined on input line 1
-12.
-
 File: images/02_tabula_grafiks.png Graphic file (type QTm)
-<use  "images/02_tabula_grafiks.png" >
+ <use  "images/02_tabula_grafiks.png" >
 Missing character: There is no ā in font cmr10!
 Missing character: There is no ā in font cmr10!
 Missing character: There is no ā in font cmr10!
@@ -871,12 +845,7 @@ Missing character: There is no ī in font cmr10!
 Missing character: There is no ņ in font cmr10!
 Missing character: There is no ē in font cmr10!
 Missing character: There is no ī in font cmr10!
-
-
-LaTeX Warning: Reference `Tabula un grafiks' on page 5 undefined on input line 
-119.
-
-[5] [6] [7]
+ [5] [6]
 Missing character: There is no ē in font cmr10!
 Missing character: There is no – in font cmr10!
 Missing character: There is no ī in font cmr10!
@@ -893,12 +862,10 @@ Missing character: There is no ā in font cmr10!
 Missing character: There is no ī in font cmr10!
 Missing character: There is no – in font cmr10!
 Missing character: There is no ī in font cmr10!
- [8
+
+[7
 
 ] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -907,11 +874,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 (\end occurred when \iftrue on line 200 was incomplete) 
 Here is how much of TeX's memory you used:
  20691 strings out of 495086
- 536104 string characters out of 6174478
+ 536101 string characters out of 6174478
  750460 words of memory out of 5000000
- 23561 multiletter control sequences out of 15000+600000
- 9107 words of font info for 32 fonts, out of 8000000 for 9000
+ 23560 multiletter control sequences out of 15000+600000
+ 8799 words of font info for 31 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  65i,8n,90p,746b,1644s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (9 pages).
+Output written on main.pdf (8 pages).
